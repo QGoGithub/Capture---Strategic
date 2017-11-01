@@ -1,12 +1,11 @@
 # Alpha Capture
-Quant Portfolio Approach to Alpha Generation and Retention
+Quantitative Portfolio Approach to Alpha Generation and Retention
 
-Useful Tools, Data Models, Filters, Optimisers, Algorithms, 
-        Backtesting and Decision Making 
-            applying a quantitative portfolio approach to investing.
+Robust Analytic and Numerical Tools, Data Cleaning and Modelling, Forecasting, Filters, Optimisers, Algorithms, 
+        Backtesting, Cross Validation, Out of Sample Testing, and Decision Making 
+             - applying a quantitative portfolio approach to the life cycle of investing.
             
-Alpha Generation:
-Risk Weighted Decision Making and Opportunity Identification
+Alpha Generation:Probability Weighted Decision Making and Opportunity Identification
 
 Alpha Capture: Signal Management in Real Time
 
