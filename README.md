@@ -10,3 +10,6 @@ Alpha Generation:Probability Weighted Decision Making and Opportunity Identifica
 Alpha Capture: Signal Management in Real Time
 
 Alpha Retention: Risk Management, Loop Implementation
+
+
+1. SMA(25) applying PyAlgoTrade Library
